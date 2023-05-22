@@ -2,7 +2,7 @@
 
 Este repositorio contiene implementaciones de diversos algoritmos de aprendizaje automático (machine learning) utilizados para tareas de clasificación, agrupamiento y predicción. A continuación se describen los algoritmos incluidos:
 
-# 1. Naive Bayes
+## 1. Naive Bayes
 
 El algoritmo de clasificación Naive Bayes es un método de aprendizaje supervisado que se utiliza para predecir la pertenencia de una muestra a una clase específica. Se basa en el teorema de Bayes y asume una independencia condicional entre las características.
 
